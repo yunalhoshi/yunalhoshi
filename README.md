@@ -17,6 +17,8 @@ Esports partnerships, growth marketing and automation. I build tools that remove
 | [**X Content Skill**](https://github.com/yunalhoshi/x-content-skill) | Claude skill that scans esports news daily and writes sourced EN/AR post drafts in a fixed voice; never posts by itself | Claude skills · web search · scheduled tasks |
 | [**Shipping Form Bot**](https://github.com/yunalhoshi/shipping-form-bot) | Fills a carrier shipping form once per CSV row and records confirmation numbers; runs against a local demo form | Node.js · Playwright |
 | [**Twitch Creator Finder**](https://github.com/yunalhoshi/twitch-creator-finder) | Lead lists of live Twitch creators by game, language and audience size via the official API | Python · Twitch Helix API |
+| [**X MENA Lead Finder**](https://github.com/yunalhoshi/x-mena-lead-finder) | Finds Arabic-speaking gaming creators on X and ranks them as partnership leads via the official API | Node.js · X API v2 |
+| [**Arabic Localization Agent**](https://github.com/yunalhoshi/arabic-localization-agent) | Translates Markdown blog posts into Arabic with Claude while keeping code, links and brand terms intact, with validation and retry | Python · Claude API |
 | [**Gmail Draft Automation**](https://github.com/yunalhoshi/gmail-draft-automation) | CSV to Gmail drafts and in-thread reply drafts for outreach campaigns, resume-safe, nothing auto-sent | Python · Gmail API |
 
 ### What I work with
